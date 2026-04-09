@@ -11,6 +11,7 @@ This repository contains my Python learning journey using CS50's Introduction to
 
 ## 📂 Structure
 
+- `basics/` → Revision of base topics
 - `week1/`, `week2/` → Course-based learning
 - `dsa/` → Data Structures & Algorithms practice
 - `mini-projects/` → Small real-world applications
