@@ -1,3 +1,10 @@
+def func() -> None:
+    print('Hello')
+
+func()
+func()
+
+
 def add(a: float, b: float) -> float:   # function takes 2 floats, returns float
     print(f'Adding: {a} + {b}')         # f-string to show operation
     return a + b                        # return sum
