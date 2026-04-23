@@ -1,21 +1,24 @@
-# CS50 Python Practice
+# Python Mastery Journey
 
-This repository contains my Python learning journey using CS50's Introduction to Programming with Python.
-
-## 📌 What’s inside
-
-- Core Python concepts (loops, functions, data structures)
-- Problem-solving practice (DSA)
-- Mini projects
-- Daily coding progress
+This repository tracks my progress through a comprehensive Python curriculum, covering everything from base syntax to API development and data science libraries.
 
 ## 📂 Structure
 
-- `basics/` → Revision of base topics
-- `week1/`, `week2/` → Course-based learning
-- `dsa/` → Data Structures & Algorithms practice
-- `mini-projects/` → Small real-world applications
+- **`basics/`** → Core syntax, variables, and control flow.
+- **`oop/`** → Object-oriented programming, classes, and inheritance.
+- **`dsa/`** → Data structures and algorithmic problem-solving.
+- **`gui/`** → Desktop application development with Tkinter.
+- **`data-science/`** → NumPy, Pandas, Matplotlib, and Seaborn implementations.
+- **`database/`** → SQL integration and database management.
+- **`api/`** → REST API development and backend logic.
 
-## 🎯 Goal
+## 🎯 Learning Goals
 
-To build strong Python fundamentals, improve problem-solving skills, and prepare for backend development.
+* **Core Mastery:** Complete fluency in Python fundamentals and OOP.
+* **Data Handling:** Efficiently process and visualize data using the scientific stack.
+* **Backend Foundation:** Build robust APIs and manage SQL databases.
+* **Problem Solving:** Implementing efficient algorithms and data structures.
+
+---
+
+**Projects > Courses. Build while learning.**
